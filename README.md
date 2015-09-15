@@ -1,2 +1,6 @@
 # skate-bis-tools
-Skateboarding Board Identification System (TM) tools
+
+Software tools to use with the openSource(skateboards) Board Identification System (TM)
+
+See http://www.opensourceboards.com/skateboards/the-board-identification-system/
+
